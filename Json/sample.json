@@ -1,0 +1,11 @@
+{
+    "name": "Manisha Tamang",
+    "age": 22,
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "skills": [
+        "Python",
+        "Git",
+        "JSON"
+    ]
+}
